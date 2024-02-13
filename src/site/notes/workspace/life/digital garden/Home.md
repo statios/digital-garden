@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/workspace/life/digital-garden/home/","pinned":true,"tags":["gardenEntry"],"created":"2024-02-14T05:08:23.020+09:00","updated":"2024-02-14T06:29:30.119+09:00"}
+{"dg-publish":true,"dg-permalink":"\"home\"","permalink":"/\"home\"/","pinned":true,"tags":["gardenEntry"],"created":"2024-02-14T05:08:23.020+09:00","updated":"2024-02-14T06:30:58.008+09:00"}
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer rutrum non tortor sit amet vulputate. Suspendisse scelerisque volutpat justo, nec vestibulum dolor lacinia eu. Nullam nunc urna, bibendum vel justo eget, tincidunt ultrices arcu. Cras eget ligula felis. Praesent ligula ex, iaculis nec augue ut, volutpat rhoncus sem. Nullam ac convallis ante. Maecenas vel sapien ut purus interdum posuere. Fusce faucibus cursus magna at dignissim.
