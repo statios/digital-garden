@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Garden/Home.md","permalink":"/garden/home/","pinned":true,"tags":["gardenEntry"],"created":"2024-02-14T06:44:36.670+09:00","updated":"2024-02-14T06:46:53.332+09:00"}
+{"dg-publish":true,"dg-path":"note/Garden/Home.md","permalink":"/note/garden/home/","pinned":true,"tags":["gardenEntry"],"created":"2024-02-25T02:56:15.623+09:00","updated":"2024-02-25T02:56:15.623+09:00"}
 ---
 
 Hi there!
