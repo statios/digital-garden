@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Combine/Lorem ipsum.md","permalink":"/combine/lorem-ipsum/","created":"2024-02-14T06:39:40.768+09:00","updated":"2024-02-14T06:40:19.110+09:00"}
+{"dg-publish":true,"dg-path":"note/Combine/Lorem ipsum.md","permalink":"/note/combine/lorem-ipsum/","created":"2024-02-25T02:56:15.623+09:00","updated":"2024-02-25T02:56:15.623+09:00"}
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer rutrum non tortor sit amet vulputate. Suspendisse scelerisque volutpat justo, nec vestibulum dolor lacinia eu. Nullam nunc urna, bibendum vel justo eget, tincidunt ultrices arcu. Cras eget ligula felis. Praesent ligula ex, iaculis nec augue ut, volutpat rhoncus sem. Nullam ac convallis ante. Maecenas vel sapien ut purus interdum posuere. Fusce faucibus cursus magna at dignissim.
